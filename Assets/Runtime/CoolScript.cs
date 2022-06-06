@@ -6,7 +6,7 @@ using ILogger = Microsoft.Extensions.Logging.ILogger;
 
 public abstract class CoolScript : MonoBehaviour
 {
-    public abstract ILogger Logger { get; protected set; }
+    protected abstract ILogger Logger { get; }
     public void Execute()
     {
         this.Logger.LogInformation("Cool script was executed.");
