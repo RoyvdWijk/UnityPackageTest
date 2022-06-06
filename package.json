@@ -1,5 +1,5 @@
 {
-  "name": "com.PillowBandit.YarnsForUnity",
+  "name": "com.pillowbandit.unitypackagetest",
   "version": "0.0.1",
   "displayName": "YARNS for Unity",
   "description": "Yet Another Reliable Networking Solution for Unity",
@@ -12,6 +12,6 @@
     "multiplayer"
   ],
   "author": {
-    "name": "Roy van der Wijk"
+    "name": "PillowBandit"
   }
 }
