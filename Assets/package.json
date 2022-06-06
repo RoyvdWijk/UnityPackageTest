@@ -1,0 +1,17 @@
+{
+  "name": "com.PillowBandit.YarnsForUnity",
+  "version": "0.0.1",
+  "displayName": "YARNS for Unity",
+  "description": "Yet Another Reliable Networking Solution for Unity",
+  "unity": "2022.1",
+  "unityRelease": "1f1",
+  "license": "MIT",
+  "keywords": [
+    "yarns",
+    "networking",
+    "multiplayer"
+  ],
+  "author": {
+    "name": "Roy van der Wijk"
+  }
+}
